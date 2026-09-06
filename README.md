@@ -1,4 +1,4 @@
-# nba-scoring-efficiency
+# sports-data-analysis-projects
 Python analysis of scoring volume vs efficiency in the NBA 2025-26 season and historical MVP seasons
 ## Tools and Data
 Built with Python using pandas and matplotlib. Player and team data sourced from Basketball Reference. Charts include team logos sourced from ESPN CDN
